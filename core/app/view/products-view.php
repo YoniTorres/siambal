@@ -60,7 +60,7 @@ if($px<=$npaginas):
 <div class="clearfix"></div>
 <br><table class="table table-bordered table-hover">
 	<thead>
-		<th>Codigo</th>
+		<th>Codigo Jh</th>
 		<th>Imagen</th>
 		<th>Nombre</th>
 		<th>Precio Entrada</th>
